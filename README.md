@@ -1,8 +1,8 @@
 # intel-oneAPI
 
-#### Team Name -
-#### Problem Statement - 
-#### Team Leader Email -
+#### Team Name - Codex
+#### Problem Statement - Medical Image Processing using Intel oneAPI
+#### Team Leader Email - aloshdenny@gmail.com
 
 ## A Brief of the Prototype:
   This section must include UML Daigrms and prototype description
