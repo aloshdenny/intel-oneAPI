@@ -1,7 +1,7 @@
 # intel-oneAPI
 
 #### Team Name - Codex
-#### Problem Statement - Medical Image Processing using Intel oneAPI
+#### Problem Statement - Measuring foetal biometrics using prenatal ultrasound image segmentation
 #### Team Leader Email - aloshdenny@gmail.com
 
 ## A Brief of the Prototype:
