@@ -12,7 +12,31 @@
 
   
 ## Tech Stack: 
-   List Down all technologies used to Build the prototype **Clearly mentioning Intel® AI Analytics Toolkits, it's libraries and the SYCL/DCP++ Libraries used**
+   *SYCL/DPC++
+
+   *oneMKL
+
+   *oneDNN
+
+   *Python
+
+   *C++
+
+   *U-Net
+
+   *OpenCV
+   
+   *MinIO
+
+   *TensorFlow
+
+   *Keras
+
+   *ResNet
+
+   *CNN
+
+   *DCNN
    
 ## Step-by-Step Code Execution Instructions:
   This Section must contain set of instructions required to clone and run the prototype, so that it can be tested and deeply analysed
