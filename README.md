@@ -12,31 +12,31 @@
 
   
 ## Tech Stack: 
-   *SYCL/DPC++
+   * SYCL/DPC++
 
-   *oneMKL
+   * oneMKL
 
-   *oneDNN
+   * oneDNN
 
-   *Python
+   * Python
 
-   *C++
+   * C++
 
-   *U-Net
+   * U-Net
 
-   *OpenCV
+   * OpenCV
    
-   *MinIO
+   * MinIO
 
-   *TensorFlow
+   * TensorFlow
 
-   *Keras
+   * Keras
 
-   *ResNet
+   * ResNet
 
-   *CNN
+   * CNN
 
-   *DCNN
+   * DCNN
    
 ## Step-by-Step Code Execution Instructions:
   This Section must contain set of instructions required to clone and run the prototype, so that it can be tested and deeply analysed
